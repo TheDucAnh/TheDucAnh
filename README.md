@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @TheDucAnh
-- 👶 I'm a 2013 Gen A
-- 🏡 I'm from the suburbs of Hanoi, Vietnam
-- 👀 I’m interested in coding, design, and creative tech projects
-- 🌱 I’m currently learning web development and English
-- 💞️ I’m looking to collaborate on beginner-friendly projects
-- 📫 How to reach me: [ducanhpresident23@gmail.com]
-- 😄 Pronouns: anhchang
-- 🌐 I speak Vietnamese and English (currently A2 level in English)
-- ⚡ Fun fact: I love mixing code
+nothing
