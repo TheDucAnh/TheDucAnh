@@ -12,11 +12,8 @@
 </p>
 
 <div align="center">
-  <h3>GitHub Stats</h3>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDucAnh&show_icons=true&theme=tokyonight&title_color=00ff00&bg_color=00ffff&locale=vi&layout=compact" alt="TheDucAnh" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDucAnh&show_icons=true&theme=tokyonight&locale=vi" alt="TheDucAnh" />
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDucAnh&theme=dark" alt="TheDucAnh" />
+  <h3>🌐 My Website</h3>
+  <a href="https://yourwebsite.vercel.app" target="_blank">
+    👉 https://codecalc-wheat.vercel.app
+  </a>
 </div>
