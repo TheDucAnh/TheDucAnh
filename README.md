@@ -11,9 +11,3 @@
   </a>
 </p>
 
-<div align="center">
-  <h3>🌐 My Website</h3>
-  <a href="https://yourwebsite.vercel.app" target="_blank">
-    👉 https://codecalc-wheat.vercel.app
-  </a>
-</div>
